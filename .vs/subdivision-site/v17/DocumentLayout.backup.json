@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Xx636\\Desktop\\subdivision-site\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EECFFD9-C84D-4884-A371-183FC3D17B56}|subdivision-site\\subdivision-site.csproj|c:\\users\\xx636\\desktop\\subdivision-site\\subdivision-site\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EECFFD9-C84D-4884-A371-183FC3D17B56}|subdivision-site\\subdivision-site.csproj|solutionrelative:subdivision-site\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EECFFD9-C84D-4884-A371-183FC3D17B56}|subdivision-site\\subdivision-site.csproj|c:\\users\\xx636\\desktop\\subdivision-site\\subdivision-site\\subdivision-site.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6EECFFD9-C84D-4884-A371-183FC3D17B56}|subdivision-site\\subdivision-site.csproj|solutionrelative:subdivision-site\\subdivision-site.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EECFFD9-C84D-4884-A371-183FC3D17B56}|subdivision-site\\subdivision-site.csproj|c:\\users\\xx636\\desktop\\subdivision-site\\subdivision-site\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EECFFD9-C84D-4884-A371-183FC3D17B56}|subdivision-site\\subdivision-site.csproj|solutionrelative:subdivision-site\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Xx636\\Desktop\\subdivision-site\\subdivision-site\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "subdivision-site\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Xx636\\Desktop\\subdivision-site\\subdivision-site\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "subdivision-site\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:09:56.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "subdivision-site",
+              "DocumentMoniker": "C:\\Users\\Xx636\\Desktop\\subdivision-site\\subdivision-site\\subdivision-site.csproj",
+              "RelativeDocumentMoniker": "subdivision-site\\subdivision-site.csproj",
+              "ToolTip": "C:\\Users\\Xx636\\Desktop\\subdivision-site\\subdivision-site\\subdivision-site.csproj",
+              "RelativeToolTip": "subdivision-site\\subdivision-site.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T08:08:47.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Xx636\\Desktop\\subdivision-site\\subdivision-site\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "subdivision-site\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Xx636\\Desktop\\subdivision-site\\subdivision-site\\Models\\Users.cs",
+              "RelativeToolTip": "subdivision-site\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:06:13.23Z",
+              "EditorCaption": ""
             }
           ]
         }

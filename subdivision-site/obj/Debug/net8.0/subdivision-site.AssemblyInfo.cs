@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("subdivision-site")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54b3b2b448088432ddc6bfd07e5e45528320ee73")]
 [assembly: System.Reflection.AssemblyProductAttribute("subdivision-site")]
 [assembly: System.Reflection.AssemblyTitleAttribute("subdivision-site")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
